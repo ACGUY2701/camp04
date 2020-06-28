@@ -1,0 +1,22 @@
+#note {
+  background-color: rgb(0, 168, 45);
+  color: whitesmoke;
+  font-size: 20px;
+  padding: 10px;
+  height: 200px;
+  width: 30%;
+  cursor: pointer;
+  display: inline-block;
+  margin: 10px;
+  font-family: -webkit-body;
+}
+
+#sticky-note-container {
+  height: 400px;
+}
+
+#uploadpict {
+  width: 100px;
+  height: 80px;
+  border-style: none;
+}
